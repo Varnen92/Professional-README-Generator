@@ -69,3 +69,9 @@ const writeFile = fileContent => {
 
 // Function call to initialize app
 questions()
+.then(readmeData => {
+    return generateMarkdown(readmeData)
+})
+.then(markdownData => {
+    return writeFile(markdownData)
+})
