@@ -1,10 +1,10 @@
-# asdf
+# test
   
-  ![License-Badge](https://img.shields.io/static/v1?label=License&message=The-Unlicense&color=Green.svg "License Badge")
+  ![License-Badge](https://img.shields.io/static/v1?label=License&message=Boost-Software-License-1.0&color=Green.svg "License Badge")
   
 
   ## Description
-  a
+  s
   
   ## Table of contents 
   
@@ -16,19 +16,21 @@
   * [Questions](#questions)
 
   ## Installation
-  a
+  ss
   
   ## Usage
-  a
+  s
 
-  ## License
+  ## License -- Boost-Software-License-1.0
   
+    A simple permissive license only requiring preservation of copyright and license notices for source (and not binary) distribution. Licensed works, modifications, and larger works may be distributed under different terms and without source code
+    
 
   ## Contributing
-  aa
+  
 
   ## Tests
-  a
+  s
 
   ## Questions
 
