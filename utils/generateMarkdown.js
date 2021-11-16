@@ -1,5 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// Creates a license badge based on the license choosen in previous question prompts
 function renderLicenseBadge(license) {
   if (!license) {
     return ''
@@ -11,12 +10,7 @@ function renderLicenseBadge(license) {
 }
 
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-function renderLicenseLink(license) { }
-
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
+// Using license choice in questions portion, matches to fill the description of which license the user chooses
 function renderLicenseSection(license) {
   if (license === 'GNU-AGPLv3') {
     return `
@@ -68,7 +62,7 @@ function renderLicenseSection(license) {
   }
 }
 
-// TODO: Create a function to generate markdown for README
+// Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
   ${renderLicenseBadge(data.license)}
@@ -105,7 +99,7 @@ function generateMarkdown(data) {
   Please check out my GitHub at https://github.com/${data.github}
 
   If you have further questions please email me at: ${data.email}
-`;
+`
 }
 
 module.exports = { generateMarkdown };

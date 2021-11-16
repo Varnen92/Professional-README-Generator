@@ -1,10 +1,10 @@
-# Title
+# Test Title
   
-  ![License-Badge](https://img.shields.io/static/v1?label=License&message=Boost-Software-License-1.0&color=Green.svg "License Badge")
+  ![License-Badge](https://img.shields.io/static/v1?label=License&message=Mozilla-Public-License-2.0&color=Green.svg "License Badge")
   
 
   ## Description
-  Test description
+  Test Description
   
   ## Table of contents 
   
@@ -16,25 +16,25 @@
   * [Questions](#questions)
 
   ## Installation
-  Here's some instructions
+  Test installation instructions
   
   ## Usage
-  Here's some usage information
+  Test usage
 
-  ## License -- Boost-Software-License-1.0
+  ## License -- Mozilla-Public-License-2.0
   
-    A simple permissive license only requiring preservation of copyright and license notices for source (and not binary) distribution. Licensed works, modifications, and larger works may be distributed under different terms and without source code
-    View full permissions at: https://choosealicense.com/licenses/bsl-1.0/
+    Permissions of this weak copyleft license are conditioned on making available source code of licensed files and modifications of those files under the same license (or in certain cases, one of the GNU licenses). Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. However, a larger work using the licensed work may be distributed under different terms and without source code for files added in the larger work.
+    View full permissions at: https://choosealicense.com/licenses/mpl-2.0/
     
 
   ## Contributing
-  Here's some relevant information
+  Test info
 
   ## Tests
-  Here's how you would run further tests
+  Test test test
 
   ## Questions
 
   Please check out my GitHub at https://github.com/Varnen92
 
-  If you have further questions please email me at: robsand1992@yahoo.com
+  If you have further questions please email me at: robsand@fake.com
