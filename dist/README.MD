@@ -1,10 +1,10 @@
-# Test Title
+# Test Title 
   
   ![License-Badge](https://img.shields.io/static/v1?label=License&message=Mozilla-Public-License-2.0&color=Green.svg "License Badge")
   
 
   ## Description
-  Test Description
+  Test Description of project
   
   ## Table of contents 
   
@@ -16,10 +16,10 @@
   * [Questions](#questions)
 
   ## Installation
-  Test installation instructions
+  Test Installation instructions
   
   ## Usage
-  Test usage
+  Test usage information relevant to the project
 
   ## License -- Mozilla-Public-License-2.0
   
@@ -28,13 +28,13 @@
     
 
   ## Contributing
-  Test info
+  Relevant information to assist others
 
   ## Tests
-  Test test test
+  Test information for further tests
 
   ## Questions
 
   Please check out my GitHub at https://github.com/Varnen92
 
-  If you have further questions please email me at: robsand@fake.com
+  If you have further questions please email me at: robsand1992@yahoo.com

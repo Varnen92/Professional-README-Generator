@@ -87,6 +87,9 @@ questions()
 .then(markdownData => {
     return writeFile(markdownData)
 })
+.then(statusResponse => {
+    console.log(statusResponse)
+})
 .catch(err => {
     console.log(err)
 })
