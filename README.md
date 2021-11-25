@@ -11,6 +11,9 @@ A showcase of Node.JS and utilizing user inputs in the console, create a profess
 ## Preview Image
 ![Readme-Example](https://i.imgur.com/l9TrWo0.png)
 
+## Preview Video
+https://watch.screencastify.com/v/LJSeFNKPXPXimxK7zTlo
+
 ## Contribution
 Fully built by Robert Sandoval
 
